@@ -1,0 +1,73 @@
+.eweek-h1 {
+	font-family: 'Fira Sans', sans-serif;	
+	color: #e65231;
+	font-weight: bold;
+	
+}
+.eweek-title {
+	font-family: 'Fira Sans', sans-serif;	
+	color: #e65231;
+	font-weight: bold;
+}
+.eweek-subtitle {
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 25pt;
+	color: #e65231;
+	font-weight: bold;
+	padding-top: .5em;
+}
+.eweek-h2 {
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 14pt;
+	color: #e65231;
+	font-weight: bold;
+	padding-top: 1em;
+}
+
+.eweek-body {
+	font-family: 'Fira Sans', sans-serif;
+	color: #e65231;
+	font-weight: bold;
+	padding-top: .25em;
+
+}
+
+.eweek-li1 {
+	color: #e59d8a;
+}
+
+.eweek-li2 {
+	color: #111111;
+}
+
+.eweek-li3 {
+	color: #806b8c;
+}
+
+.eweek-li4 {
+	color: #731ac1;
+}
+
+.eweek-li5 {
+	color: #e8c456;
+}
+
+.eweek-li6 {
+	color: #101dc1;
+}
+
+.eweek-li7 {
+	color: #6477ab;
+}
+
+.eweek-li8 {
+	color: #806b8c
+}
+
+.eweek-li9 {
+	color: #1d0f63;
+}
+
+.eweek-bg {
+	background-color: #f3e2c5;
+}
