@@ -2,6 +2,7 @@
 	font-family: 'Fira Sans', sans-serif;	
 	color: #e65231;
 	font-weight: bold;
+	padding-top: 1em;
 	
 }
 .eweek-title {
@@ -28,11 +29,11 @@
 	font-family: 'Fira Sans', sans-serif;
 	color: #e65231;
 	font-weight: bold;
-	padding-top: .25em;
+	padding-top: .5em;
 
 }
 
-.eweek-li1 {
+.eweek-everyone {
 	color: #e59d8a;
 }
 
@@ -52,11 +53,11 @@
 	color: #e8c456;
 }
 
-.eweek-li6 {
+.eweek-corp {
 	color: #101dc1;
 }
 
-.eweek-li7 {
+.eweek-health {
 	color: #6477ab;
 }
 
@@ -64,10 +65,42 @@
 	color: #806b8c
 }
 
-.eweek-li9 {
+.eweek-design {
 	color: #1d0f63;
+}
+
+.eweek-tech {
+	color: #bf862b;
 }
 
 .eweek-bg {
 	background-color: #f3e2c5;
 }
+
+.eweek-navbar {
+	background-color: #f3e2c5;
+}
+
+.eweek-navbar-item {
+	font-family: 'Fira Sans', sans-serif;	
+	color: #e65231;
+}
+
+.eweek-download-btn {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	color: #f3e2c5;
+	font-family: 'Fira Sans', sans-serif;	
+	background-color: #e65231;
+	border-radius: 0;
+}
+
+.eweek-download-btn:hover {
+	color: #e65231;
+	background-color: #f3e2c5;
+	outline-color: #e65231;
+	outline-style: solid;
+
+}
+
+
