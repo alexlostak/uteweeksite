@@ -119,6 +119,11 @@
 	color: #e65231;
 }
 
+.eweek-navbar-item:hover {
+	font-weight: bold;
+	transition: .1s;
+}
+
 .eweek-download-btn {
 	margin-top: 1em;
 	margin-bottom: 1em;
